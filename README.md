@@ -1,5 +1,5 @@
 # WhiskiPlaisir
-SKUSKU<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 SKUSKU
 =======
 On est là
