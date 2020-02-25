@@ -1,2 +1,2 @@
 # WhiskiPlaisir
-SKUSKU
+SKUSKI
